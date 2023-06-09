@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tbc/"}
+{"dg-publish":true,"permalink":"/tbc/","tags":["gardenEntry"]}
 ---
 
 ..soon..
